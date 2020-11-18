@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\study material\programming\dsa\karatsuba\karatsuba\source.cpp(37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\study material\programming\dsa\karatsuba\karatsuba\source.cpp(47): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Karatsuba.vcxproj -> D:\Study Material\Programming\DSA\Karatsuba\Debug\Karatsuba.exe
+  Karatsuba.vcxproj -> D:\Study Material\Programming\DSA\Karatsuba\Debug\Karatsuba.pdb (Full PDB)
